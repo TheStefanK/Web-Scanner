@@ -1,0 +1,3 @@
+http://example.local
+http://example.local/news/
+http://example.local/about/
